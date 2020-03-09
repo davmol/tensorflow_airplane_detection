@@ -1,0 +1,9 @@
+item {
+    id: 1
+    name: 'A319_A320'
+}
+
+item {
+    id: 2
+    name: 'B738'
+}
